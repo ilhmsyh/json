@@ -1,0 +1,19 @@
+[
+    {
+        "judul": "Dragon Ball",
+        "pengarang": "Akira Toriyama",
+        "tahun_terbit": 26-02-1986,
+       
+    },
+    {
+        "judul": "Inuyasha",
+        "pengarang": "Rumiko Takahashi",
+        "tahun_terbit":  90
+    },
+    {
+        "judul": "Naruto",
+        "pengarang": "Masashi Kishimoto",
+        "tahun_terbit": 21-09-1999,
+    } 
+        
+]
